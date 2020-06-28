@@ -1,3 +1,5 @@
 brasil
 argentina
 uruguai
+paraguai
+chile
