@@ -4,3 +4,4 @@ uruguai
 paraguai
 chile
 equador
+peru
