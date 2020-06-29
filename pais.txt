@@ -3,3 +3,4 @@ argentina
 uruguai
 paraguai
 chile
+equador
