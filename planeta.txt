@@ -1,3 +1,4 @@
+SOL
 mercurio
 venus
 terra
