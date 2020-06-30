@@ -5,3 +5,4 @@ paraguai
 chile
 equador
 peru
+PANAMA
